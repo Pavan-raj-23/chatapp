@@ -1,9 +1,9 @@
 ## Author
-**SHYAM KUMAR V**  
+**KR PAVANRAJ**  
 **Company**: CODETECH IT SOLUTIONS  
-**Id**: CT12DS2958  
+**Id**: CT08VGZ
 **Domain**: Full Stack Web Development  
-**Duration**: Dec 5th 2024 to Feb 5th, 2025
+**Duration**: feb 20 to mar 20
 
 
 # Real-Time Chat Application
